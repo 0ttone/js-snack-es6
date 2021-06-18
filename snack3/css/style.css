@@ -1,0 +1,21 @@
+*{
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+}
+
+.output-table ul {
+      display: flex;
+      list-style: none;
+
+}
+
+.output-table li {
+      border: 1px solid #eee;
+      text-align: center;
+      padding: 5px;
+
+
+
+}
+
