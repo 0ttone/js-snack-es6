@@ -12,6 +12,12 @@ alle squadre evidenziando in giallo la riga corrispondente alla squadra con più
 
 
 const footballTeams = [
+      {
+            nameTeam : 'Squadra',
+            pointTeam : 'Punti',
+            foulTeam : 'Falli subiti'
+
+      },
 
       {
             nameTeam : 'Brasil',
